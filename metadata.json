@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Manager",
+  "description": "Système d'identification Wi-Fi configurable et portail captif dynamique",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
